@@ -23,9 +23,5 @@
     "@babel/preset-env": "^7.14.9",
     "nodemon": "^2.0.12",
     "prisma": "2.28.0"
-  },
-  "jest": {
-    "globalSetup": "./tests/jest/globalSetup.js",
-    "globalTeardown": "./tests/jest/globalTeardown.js"
   }
 }
